@@ -1,13 +1,7 @@
-//
-//  Renad.swift
-//  RenadWafaLinahArwaShahinaz
-//
-//  Created by Renad Alyousef on 26/03/1446 AH.
-//
 
 import SwiftUI
 
-struct Renad: View {
+struct rrr: View {
     var body: some View {
         ZStack{
             Image("meee")
@@ -44,5 +38,5 @@ struct Renad: View {
 }
 
 #Preview {
-    Renad()
+    rrr()
 }
