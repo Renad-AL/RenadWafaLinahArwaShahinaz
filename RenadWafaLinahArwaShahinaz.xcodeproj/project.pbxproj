@@ -6,6 +6,14 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		014185C22CA9794600D62294 /* Renad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C12CA9794600D62294 /* Renad.swift */; };
+		014185C42CA9795800D62294 /* Arwa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C32CA9795800D62294 /* Arwa.swift */; };
+		014185C62CA9796300D62294 /* Wafa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C52CA9796300D62294 /* Wafa.swift */; };
+		014185C82CA9797300D62294 /* Shahinaz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C72CA9797300D62294 /* Shahinaz.swift */; };
+		014185CA2CA9798100D62294 /* Linah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C92CA9798100D62294 /* Linah.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		014185A52CA975F400D62294 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +35,11 @@
 		014185932CA975F200D62294 /* RenadWafaLinahArwaShahinaz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RenadWafaLinahArwaShahinaz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		014185A42CA975F400D62294 /* RenadWafaLinahArwaShahinazTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RenadWafaLinahArwaShahinazTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		014185AE2CA975F400D62294 /* RenadWafaLinahArwaShahinazUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RenadWafaLinahArwaShahinazUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		014185C12CA9794600D62294 /* Renad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Renad.swift; sourceTree = "<group>"; };
+		014185C32CA9795800D62294 /* Arwa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arwa.swift; sourceTree = "<group>"; };
+		014185C52CA9796300D62294 /* Wafa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wafa.swift; sourceTree = "<group>"; };
+		014185C72CA9797300D62294 /* Shahinaz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shahinaz.swift; sourceTree = "<group>"; };
+		014185C92CA9798100D62294 /* Linah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Linah.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +88,11 @@
 		0141858A2CA975F200D62294 = {
 			isa = PBXGroup;
 			children = (
+				014185C12CA9794600D62294 /* Renad.swift */,
+				014185C32CA9795800D62294 /* Arwa.swift */,
+				014185C52CA9796300D62294 /* Wafa.swift */,
+				014185C72CA9797300D62294 /* Shahinaz.swift */,
+				014185C92CA9798100D62294 /* Linah.swift */,
 				014185952CA975F200D62294 /* RenadWafaLinahArwaShahinaz */,
 				014185A72CA975F400D62294 /* RenadWafaLinahArwaShahinazTests */,
 				014185B12CA975F400D62294 /* RenadWafaLinahArwaShahinazUITests */,
@@ -236,6 +254,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				014185CA2CA9798100D62294 /* Linah.swift in Sources */,
+				014185C42CA9795800D62294 /* Arwa.swift in Sources */,
+				014185C82CA9797300D62294 /* Shahinaz.swift in Sources */,
+				014185C62CA9796300D62294 /* Wafa.swift in Sources */,
+				014185C22CA9794600D62294 /* Renad.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
