@@ -12,6 +12,7 @@
 		014185C62CA9796300D62294 /* Wafa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C52CA9796300D62294 /* Wafa.swift */; };
 		014185C82CA9797300D62294 /* Shahinaz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C72CA9797300D62294 /* Shahinaz.swift */; };
 		014185CA2CA9798100D62294 /* Linah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185C92CA9798100D62294 /* Linah.swift */; };
+		014185CC2CA98D1200D62294 /* rrr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014185CB2CA98D1200D62294 /* rrr.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		014185C52CA9796300D62294 /* Wafa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wafa.swift; sourceTree = "<group>"; };
 		014185C72CA9797300D62294 /* Shahinaz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shahinaz.swift; sourceTree = "<group>"; };
 		014185C92CA9798100D62294 /* Linah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Linah.swift; sourceTree = "<group>"; };
+		014185CB2CA98D1200D62294 /* rrr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rrr.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				014185C12CA9794600D62294 /* Renad.swift */,
+				014185CB2CA98D1200D62294 /* rrr.swift */,
 				014185C32CA9795800D62294 /* Arwa.swift */,
 				014185C52CA9796300D62294 /* Wafa.swift */,
 				014185C72CA9797300D62294 /* Shahinaz.swift */,
@@ -256,6 +259,7 @@
 			files = (
 				014185CA2CA9798100D62294 /* Linah.swift in Sources */,
 				014185C42CA9795800D62294 /* Arwa.swift in Sources */,
+				014185CC2CA98D1200D62294 /* rrr.swift in Sources */,
 				014185C82CA9797300D62294 /* Shahinaz.swift in Sources */,
 				014185C62CA9796300D62294 /* Wafa.swift in Sources */,
 				014185C22CA9794600D62294 /* Renad.swift in Sources */,
